@@ -1,4 +1,4 @@
 buttons:
-  - text: Button
-    url: https://en.wikipedia.org/wiki/Sun_Ra
-    disabled: true
+  - text: Register
+    url: https://ieee-ssci.org/
+    disabled: false
