@@ -2,7 +2,6 @@
 layout: index
 title: Home
 navorder: 1
-#description: Student Competition on Explainable AI in Personalized cancer medicine  
 ---
 
 <h1>Student Competition on </h1>
