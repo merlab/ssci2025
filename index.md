@@ -10,7 +10,7 @@ description: Student Competition on Explainable AI in Personalized cancer medici
 </div> -->
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/merlab/ssci2025/master/assets/images/xAI2.svg" alt="XAI image" />
+  <img src="https://raw.githubusercontent.com/merlab/BioXAI-2025/master/assets/images/xAI2.svg" alt="XAI image" />
 </div>
 
 
