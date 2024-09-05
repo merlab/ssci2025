@@ -5,8 +5,12 @@ navorder: 1
 description: Student Competition on Explainable AI in Personalized cancer medicine  
 ---
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="{{ '/assets/images/xAI2.svg' | relative_url }}" alt="XAI image" />
+</div> -->
+
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/merlab/ssci2025/master/assets/images/xAI2.svg" alt="XAI image" />
 </div>
 
 
