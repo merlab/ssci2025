@@ -1,6 +1,6 @@
 ---
 layout: contributors
-title: Contributors
+title: Organizers
 description: 
-navorder: 4
+navorder: 3
 ---

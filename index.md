@@ -7,7 +7,10 @@ navorder: 1
 
 <h1>Student Competition on </h1>
 <h1>Explainable AI (XAI) in Personalized cancer medicine</h1>
-<h2>during [IEEE Symposium Series on Computational Intelligence \(SSCI\) ](https://ieee-ssci.org/) </h2>
+<h3>during</h3>
+<h2 id="my-heading">
+  <a href="https://ieee-ssci.org/">IEEE Symposium Series on Computational Intelligence (IEEE-SSCI 2025)</a>
+</h2>
 
 <!-- <div style="text-align: center;">
   <img src="{{ '/assets/images/xAI2.svg' | relative_url }}" alt="XAI image" />
