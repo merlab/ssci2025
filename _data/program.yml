@@ -1,9 +1,10 @@
 
 legend:
   title: Comming Soon
-  #~ categories:
-    #~ - name: Science
-      #~ color: red-6
+  categories:
+    - name: Comming Soon
+      color: red-6
+      
     #~ - name: Space Music
       #~ color: blue-6
     #~ - name: Minimalism
