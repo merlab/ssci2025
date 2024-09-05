@@ -2,10 +2,10 @@ title: XAI in Personalized Cancer Medicine
 logoimg: ''  # Inside /assets/images/
 logoname: |
   <span style="display: table-cell; vertical-align: middle;"></span> <span style="display: table-cell;">IEEE<br/>SSCI 2025</span>
-mainurl: https://merlab.github.io/BioXAI-2025/
+mainurl: https://merlab.github.io/BioXAI-2025
 description: 
 baseurl: ""
-url: https://merlab.github.io/BioXAI-2025/
+url: https://merlab.github.io/BioXAI-2025
 
 #theme: jekyll-minimal-conference
 remote_theme: jekyll-minimal-conference

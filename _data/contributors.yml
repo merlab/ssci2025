@@ -6,7 +6,7 @@ groups:
         surname: Mer
         affiliation: University of Ottawa, Canada
         site: https://merLab.github.io
-        img: /assets/images/Arvind_Mer.jpg
+        img: https://raw.githubusercontent.com/merlab/BioXAI-2025/master/assets/images/Arvind_Mer.jpg
         bio: Dr. Mer is an assistant professor at the University of Ottawa, Canada. His primary appointment is at the Faculty of Medicine and is cross appointed at the School of Electrical Engineering and Computer Science, Faculty of Engineering. He is the vice-chair of IEEE-BBTC Taskforce of Computational Intelligence in Health and Medicine (CIHM). His research focuses on developing machine learning methods to analyze large-scale, high-throughput omics datasets to improve personalized cancer medicine. He has developed and contributed to multiple bioinformatics software and genomics data analysis projects.  
 
   - title: -------------------------------------------------------------------
@@ -16,7 +16,7 @@ groups:
         surname: Orjuela-Cañón 
         affiliation: Universidad del Rosario, Bogota D.C., Colombia 
         site: 
-        img: /assets/images/unknown.jpg
+        img: https://raw.githubusercontent.com/merlab/BioXAI-2025/master/assets/images/unknown.jpg
         bio: Dr. Orjuela-Cañón is an Associate Professor at Universidad del Rosario inside of the School of Medicine and Health Sciences. His research topics are related to the use of artificial intelligence as a support in medicine and health sciences, in areas such as phonoaudiology, physical therapy, nursing, among others. Currently, he is chair of the Task Force in Computational Intelligence in Latin America and vice-chair of BBTC Taskforce of Computational Intelligence in Health and Medicine (CIHM) from the IEEE CIS. 
 
   - title: -------------------------------------------------------------------
@@ -26,7 +26,7 @@ groups:
         surname: Mamatjan
         affiliation: Thompson Rivers University, Canada
         site: http://www.mamatjanlab.com/
-        img: /assets/images/Yasin-Mamatjan.jpg
+        img: https://raw.githubusercontent.com/merlab/BioXAI-2025/master/assets/images/Yasin-Mamatjan.jpg
         bio: Dr. Yasin Mamatjan is an Assistant Professor at Thompson Rivers University (TRU) in Canada and a Visiting Scientist at the Princess Margaret Cancer Centre in Toronto. His research interest lies in translational research in bioinformatics and machine learning for cancer genomics. He has made significant contributions in utilization of Artificial Intelligence to provide solutions to a large-scale management of genomic data and cancer recurrence risk prediction and classification. Currently, he is the chair of IEEE-BBTC Taskforce of Computational Intelligence in Health and Medicine (CIHM). For a current list of research, publications, and expertise, refer to his lab website.
  
   - title: -------------------------------------------------------------------
@@ -36,5 +36,5 @@ groups:
         surname: Obafemi-Ajayi  
         affiliation: Missouri State University, USA 
         site: https://www.missouristate.edu/EGR/profile-display.aspx?p=TayoObafemiAjayi
-        img: /assets/images/15796.jpg
+        img: https://raw.githubusercontent.com/merlab/BioXAI-2025/master/assets/images/15796.jpg
         bio: Dr. Tayo Obafemi-Ajayi is an Associate Professor of electrical engineering with the Engineering Program, Missouri State University (MSU). She is also the Director of the Computational Learning Systems Laboratory, MSU and Chair of the IEEE Bioinformatics and Bioengineering Technical Committee. Her research interests include explainable deep learning, machine learning, data mining, and biomedical informatics. 
