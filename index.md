@@ -6,7 +6,7 @@ description: Student Competition on Explainable AI in Personalized cancer medici
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/images/xAI2.svg" alt="XAI image" />
+  <img src="{{ '/assets/images/xAI2.svg' | relative_url }}" alt="XAI image" />
 </div>
 
 
